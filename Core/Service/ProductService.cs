@@ -1,11 +1,11 @@
 ﻿using AutoMapper;
 using Domain.Contracts;
 using Domain.Exceptions;
-using Domain.Models;
+using Domain.Models.ProductModule;
 using Service.Abstraction;
 using Service.Specifications;
 using Shared;
-using Shared.DataTransferObjects;
+using Shared.DataTransferObjects.ProdcutModule;
 using System;
 using System.Collections.Generic;
 using System.Linq;

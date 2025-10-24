@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Domain.Models
+namespace Shared.DataTransferObjects.ProdcutModule
 {
-    public class ProductBrand : BaseEntity<int>
+    public class BrandDto
     {
+        public int Id { get; set; }
         public string Name { get; set; } = null!;
     }
 }

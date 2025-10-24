@@ -1,5 +1,5 @@
 ﻿using Shared;
-using Shared.DataTransferObjects;
+using Shared.DataTransferObjects.ProdcutModule;
 using System;
 using System.Collections.Generic;
 using System.Linq;
